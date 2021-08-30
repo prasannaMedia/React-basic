@@ -8,7 +8,7 @@ function Support(props) {
         <img src="https://image.ibb.co/kUagtU/rocket_contact.png" alt="rocket_contact"/>
     </div>
     <form method="post">
-        <h3>Drop Us a Message</h3>
+        <h3>Drop Us</h3>
        <div class="row">
             <div class="col-md-6">
                 <div class="form-group">
